@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://codecachet.org/</loc>
-<lastmod>2019-02-04T18:48:14-00:00</lastmod>
+<lastmod>2019-02-04T19:22:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://codecachet.org/archives.html</loc>
-<lastmod>2019-02-04T18:48:14-00:00</lastmod>
+<lastmod>2019-02-04T19:22:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://codecachet.org/tags.html</loc>
-<lastmod>2019-02-04T18:48:14-00:00</lastmod>
+<lastmod>2019-02-04T19:22:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://codecachet.org/categories.html</loc>
-<lastmod>2019-02-04T18:48:14-00:00</lastmod>
+<lastmod>2019-02-04T19:22:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,14 +46,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://codecachet.org/python-meetup-january-31-2019.html</loc>
+<loc>https://codecachet.org/python-meetup-2.html</loc>
 <lastmod>2019-02-04T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/python-meetup-january-16-2019.html</loc>
+<loc>https://codecachet.org/python-meetup-1.html</loc>
 <lastmod>2019-01-18T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -74,8 +74,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://codecachet.org/category/misc.html</loc>
+<loc>https://codecachet.org/category/meetup.html</loc>
 <lastmod>2019-02-04T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://codecachet.org/category/misc.html</loc>
+<lastmod>2018-12-22T18:57:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
