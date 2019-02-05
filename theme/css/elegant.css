@@ -17,7 +17,10 @@ h3,
 h4,
 h5,
 h6 {
+    /**
     font-family: Baskerville, Garamond, Georgia, 'DejaVu Serif', 'Times New Roman', Times, Serif;
+    **/
+    font-family: Roboto, sans-serif;
     font-weight: normal;
 }
 h1 small, h1 a, h1 a:hover,
