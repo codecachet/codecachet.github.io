@@ -1,0 +1,49 @@
+.article-content, div.recent-posts p {
+  /* font: 1.2em/1.6em 'PT Serif', Georgia, 'Times New Roman', Times, Serif; */
+  font: 1.2em/1.6em 'Roboto', sans-serif; 
+   text-align: justify;
+}
+
+.book-content .book-entry .pic a img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block; 
+  border: none;
+  cursor: pointer !important;
+}
+
+.book-content a.view-on-amazon {
+  text-decoration: none;
+  padding: 5px;
+  background-color: #3875d7;
+  color: white;
+  margin: 10px auto;
+  display: block;
+  width: 150px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+  cursor: pointer !important;
+}
+.book-content a.view-on-amazon:hover {
+  color: orange;
+}
+
+.book-content a.book-title {
+  text-decoration: none;
+  font-size: 120%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.book-content .review {
+  padding: 0 10px;
+}
+
+.book-entry {
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  margin: 5px 0;
+}
