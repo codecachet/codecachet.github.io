@@ -4,119 +4,119 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://codecachet.org/</loc>
-<lastmod>2019-02-23T18:33:44-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2019-02-23T19:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/archives.html</loc>
-<lastmod>2019-02-23T18:33:44-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2019-02-23T19:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/tags.html</loc>
-<lastmod>2019-02-23T18:33:44-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2019-02-23T19:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/categories.html</loc>
-<lastmod>2019-02-23T18:33:44-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2019-02-23T19:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/pages/books.html</loc>
+<loc>/pages/books.html</loc>
 <lastmod>2019-02-12T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/pages/contact.html</loc>
+<loc>/pages/contact.html</loc>
 <lastmod>2018-12-22T18:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/pages/resources.html</loc>
+<loc>/pages/resources.html</loc>
 <lastmod>2019-01-07T15:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/python-meetup-3.html</loc>
+<loc>/python-meetup-3.html</loc>
 <lastmod>2019-02-18T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/python-meetup-2.html</loc>
+<loc>/python-meetup-2.html</loc>
 <lastmod>2019-02-04T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/python-meetup-1.html</loc>
+<loc>/python-meetup-1.html</loc>
 <lastmod>2019-01-18T00:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/python-popularity.html</loc>
+<loc>/python-popularity.html</loc>
 <lastmod>2018-12-22T18:57:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/introduction.html</loc>
+<loc>/introduction.html</loc>
 <lastmod>2018-12-22T18:40:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/category/meetup.html</loc>
+<loc>/category/meetup.html</loc>
 <lastmod>2019-02-18T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/category/misc.html</loc>
+<loc>/category/misc.html</loc>
 <lastmod>2018-12-22T18:57:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/tag/python.html</loc>
+<loc>/tag/python.html</loc>
 <lastmod>2019-02-18T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/tag/popularity.html</loc>
+<loc>/tag/popularity.html</loc>
 <lastmod>2018-12-22T18:57:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://codecachet.org/author/codecachet.html</loc>
+<loc>/author/codecachet.html</loc>
 <lastmod>2019-02-18T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

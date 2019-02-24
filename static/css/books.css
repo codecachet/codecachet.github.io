@@ -142,8 +142,13 @@ a.book-title {
     display: block;
     flex: 1;
   }
+  
+  .book-container-4 .book-pic > img {
+    height: 10px;
+    width: 10px;
+  }
 
-  .book-pic img {
+  .book-pic a img {
     width: 100%;
   }
   
