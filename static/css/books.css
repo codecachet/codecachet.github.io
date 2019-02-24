@@ -168,5 +168,9 @@ a.book-title {
   .book-review {
     font-size: 14px;
   }
+  .book-review p:first-child {
+    margin-top: 0;
+  }
+
 }
   
