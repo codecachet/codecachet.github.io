@@ -147,8 +147,9 @@ a.book-title {
   }
   
   .book-container-4 .book-pic > img {
-    height: -9px;
-    width: -9px;
+    height: 1px;
+    width: 1px;
+    padding: 0;
   }
 
   .book-pic a img {
