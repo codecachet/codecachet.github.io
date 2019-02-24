@@ -132,6 +132,9 @@ a.book-title {
   .book-container-2 {
     margin: 5px 10px;
   }
+  .book-container-3 {
+    padding-top: 0;
+  }
 
   .book-container-4 {
     display: flex;
