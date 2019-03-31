@@ -398,6 +398,7 @@ ul.article-nav {
   justify-content: space-between;
   list-style: none;
   padding: 0 20px;
+  margin-bottom: 10px;
 }
 
 .social {
