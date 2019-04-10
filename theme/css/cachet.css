@@ -9,6 +9,7 @@
   --lightgrey-color: #dddddd;
   --blue-color: hsl(243, 36%, 26%);
   --logo-color: #453fa6;
+  --link-color: #08c;
 
   /* --border-test: 1px solid black; */
   --border-test: 0px solid black;
@@ -205,7 +206,12 @@ ol li {
 
 a {
   text-decoration: none;
-  color: --var(--blue-color);
+  color: var(--link-color);
+  /* font-weight: bold; */
+}
+code {
+  font-size: 125%;
+  font-weight: bold;
 }
 
 h1, h2, h3 {
