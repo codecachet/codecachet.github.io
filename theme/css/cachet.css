@@ -170,7 +170,7 @@ img.logo {
   /* transform: scale(.15); */
 }
 
-p, ol {
+p, ol, ul {
   color: var(--grey-color);
   line-height: 1.4;
   font-size: 1.05rem;
