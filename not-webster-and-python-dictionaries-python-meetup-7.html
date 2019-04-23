@@ -5,13 +5,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="Description" content="">
+  <meta name="Description" content="    Never enough to say about lists - so before getting to the dict, we covered two examples using lists. The first one generates random passwords for you. We realized that it is easy to generate a random password, and a bit harder to crack - that we will do in a …
+">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   <link rel="stylesheet" href="https://codecachet.org/theme/css/cachet.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Baumans" rel="stylesheet">
   <link rel="shortcut icon" href="https://codecachet.org/static/img/logo2.png" type="image/png" />
 
-  <title>CodeCachet.org</title>
+  <title>  Not Webster and Python Dictionaries - Python meetup #7  · CodeCachet.org
+</title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131361328-1"></script>
@@ -75,63 +77,69 @@
     </header>
     <main>
       <section>
+<article class="article">
+  <h1>Not Webster and Python Dictionaries - Python meetup #7</h1>
+  <div class="article-date">
+    2019 April 23
+  </div>
+    <img class="article-header-img" src="/static/img/post/daniel-filipe-antunes-santos-1206233-unsplash.jpg">
+  <p>Never enough to say about <code>list</code>s - so before getting to the <code>dict</code>, we covered two examples using lists. The first one generates random passwords for you. We realized that it is easy to generate a random password, and a bit harder to crack - that we will do in a subsequent meeting, which should be interesting. Of course, the longer the password, and longer the character set you use, the harder it is to crack. The other program was going to be homework assignment, but we covered it anyway. The problem was to shuffle a list in place, just using <code>random.randint()</code> (and not <code>random.shuffle()</code>!). The result is a very simple program (using a take on the basic Fisher-Yates algorithm from 1938), but takes a bit to figure it out.</p>
+<p>On to the famous Python <code>dict</code>! We learned:</p>
+<ul>
+<li>how to initialize a dict by various means, including "statically", and by using the <code>dict()</code> function. </li>
+<li>that immutibility (hashibility) of the key is key - but that usually, keys are strings.</li>
+<li>putting a bunch of <code>dict</code>'s into a list, and searching through, pulling out desired <code>dict</code>'s as we go, as an example pattern that we might use, or find in the real world.</li>
+<li>using a <code>dict</code> to store "tagged" data, which we can analyze and modify. This is a common use case.</li>
+<li>using  <code>dict.get()</code> to save us from undefined key exceptions and to set defaults, which can be handy.</li>
+</ul>
+<p>But we didn't get to two exciting examples: counting, and grouping. That's for next time!</p>
+<p>Check out <a href="https://github.com/codecachet/notebooks/blob/master/notwebster.ipynb">this notebook</a> for our <code>dict</code> notes and examples.</p>
+</article>
+<div class="article-footer">
+  <div class="article-footer-info">
+    <div class="category">meetup</div>
+    <div class="tags">
+        <span>python</span>
+        ,
+        <span>dict</span>
+        
+    </div>
+  </div>
+</div>
 
-<section class="category-toc">
+<ul class="article-nav">
+  <li>
+    <a href="https://codecachet.org/more-on-lists-python-meetup-6.html"> 
+      <i class="fas fa-angle-double-left"></i>
+      <span class="advance-article">Previous Article</span>
+    </a>
+  </li>
+  <li></li>
+</ul>
 
-    <h1 class="tag-title"><span>Category: </span>meetup</h1>
-    <ul class="articles-in-tag list-articles-category">
 
-        <li>
-          <a href="https://codecachet.org/not-webster-and-python-dictionaries-python-meetup-7.html">Not Webster and Python Dictionaries - Python meetup #7  </a>
-          <time>Tue 23 April 2019</time>
-        </li>
-      
 
-        <li>
-          <a href="https://codecachet.org/more-on-lists-python-meetup-6.html">More on Lists - Python meetup #6  </a>
-          <time>Wed 10 April 2019</time>
-        </li>
-      
 
-        <li>
-          <a href="https://codecachet.org/python-meetup-5.html">Python meetup #5  <small> Notes </small>  </a>
-          <time>Tue 26 March 2019</time>
-        </li>
-      
+  <div id="disqus_thread"></div>
+  <script>
 
-        <li>
-          <a href="https://codecachet.org/python-meetup-4.html">Python meetup #4  <small> Notes </small>  </a>
-          <time>Tue 26 February 2019</time>
-        </li>
-      
 
-        <li>
-          <a href="https://codecachet.org/python-meetup-3.html">Python meetup #3  <small> Notes </small>  </a>
-          <time>Mon 18 February 2019</time>
-        </li>
-      
+  var disqus_config = function () {
+  this.page.url = 'https://codecachet.org/not-webster-and-python-dictionaries-python-meetup-7.html';  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = 'https://codecachet.org/not-webster-and-python-dictionaries-python-meetup-7.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
 
-        <li>
-          <a href="https://codecachet.org/python-meetup-2.html">Python meetup #2  <small> Notes </small>  </a>
-          <time>Mon 04 February 2019</time>
-        </li>
-      
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://codecachet-org.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-        <li>
-          <a href="https://codecachet.org/python-meetup-1.html">Python meetup #1  <small> Notes </small>  </a>
-          <time>Fri 18 January 2019</time>
-        </li>
-      
-
-        <li>
-          <a href="https://codecachet.org/introduction.html">Introduction  </a>
-          <time>Sat 22 December 2018</time>
-        </li>
-      
-    </ul>
-
-</section>
-
+                          
+    
 
       </section>
     </main>
@@ -163,6 +171,16 @@
               </div>
             
               <a href="https://codecachet.org/more-on-lists-python-meetup-6">More on Lists - Python meetup #6</a> <br>
+              <div class="post-details">
+              </div>
+            </li>
+            <li>
+              <div class="post-details">
+                <img class="post-thumb" src="https://codecachet.org/static/img/post/chris-meads-1219435-unsplash.jpg">
+                2019 April 10 <br>
+              </div>
+            
+              <a href="https://codecachet.org/stack-overflow-developer-survey-2019">Stack Overflow Developer Survey 2019</a> <br>
               <div class="post-details">
               </div>
             </li>
@@ -213,6 +231,16 @@
               </div>
             
               <a href="https://codecachet.org/python-meetup-1">Python meetup #1</a> <br>
+              <div class="post-details">
+              </div>
+            </li>
+            <li>
+              <div class="post-details">
+                <img class="post-thumb" src="https://codecachet.org/static/img/post/peter-chamberlain-398960-unsplash.jpg">
+                2018 December 22 <br>
+              </div>
+            
+              <a href="https://codecachet.org/python-popularity">Python popularity</a> <br>
               <div class="post-details">
               </div>
             </li>
